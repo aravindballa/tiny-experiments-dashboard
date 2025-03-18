@@ -1,6 +1,10 @@
-# React + TypeScript + Vite
+# Tiny Experiments Dashoard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+All data lives in your browser and never leaves.
+
+## Documentation
+
+This repo built using template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
 
